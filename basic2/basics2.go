@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println("started")
@@ -14,6 +16,7 @@ func main() {
 	fmt.Println("")
 	fmt.Println("if else prac")
 	ifTest()
+
 }
 
 func forState() {
